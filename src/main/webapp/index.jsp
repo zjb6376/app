@@ -7,6 +7,6 @@
 
 <h2>只有一个页面</h2>
 
-<h3>dev</h3>
+<h3>local</h3>
 </body>
 </html>
