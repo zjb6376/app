@@ -7,8 +7,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="45c7ca69-c4a6-4ea6-bebe-1775b89cb500" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_11.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_11.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/target/app.war" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/app/WEB-INF/classes/com/xiaoming/test/MyLinkedList.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/app/WEB-INF/classes/com/xiaoming/test/MyNode.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/app/WEB-INF/classes/com/xiaoming/test/Test01.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/app/WEB-INF/classes/com/xiaoming/test/Test02.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/app/WEB-INF/classes/com/xiaoming/test/Test03.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/app/WEB-INF/web.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/app/index.jsp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xiaoming/test/MyLinkedList.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xiaoming/test/MyNode.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xiaoming/test/Test01.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xiaoming/test/Test02.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xiaoming/test/Test03.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -494,7 +509,7 @@
       <workItem from="1582093282967" duration="3431000" />
       <workItem from="1584432796327" duration="6156000" />
       <workItem from="1584670374861" duration="821000" />
-      <workItem from="1597151255697" duration="430000" />
+      <workItem from="1597151255697" duration="846000" />
     </task>
     <task id="LOCAL-00001" summary="新建app项目提交">
       <created>1579412614648</created>
@@ -556,7 +571,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="60350000" />
+    <option name="totallyTimeSpent" value="60766000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
